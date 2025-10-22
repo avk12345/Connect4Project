@@ -24,4 +24,4 @@ A two-player Connect 4 game developed in Java with a graphical interface using J
 4. Players can reset and start a new game.
 
 ## About
-A Java-based recreation of the classic Connect 4 game developed as part of an academic project. Demonstrates strong understanding of recursion, arrays, and object-oriented programming, combined with GUI development using Java Swing and AWT.
+A Java-based recreation of the classic Connect 4 game developed as part of an academic project. Demonstrates strong understanding of recursion, arrays, and object-oriented programming, combined with GUI development using Java Swing and AWT. Developed collaboratively with a small team of classmates, with contributions divided across GUI design, game logic, and win detection algorithms.
